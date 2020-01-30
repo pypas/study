@@ -1,1 +1,3 @@
-You are looking for a specific value in a binary tree, but the tree is not a binary search tree.
+You are looking for a specific value in a binary tree, but the tree is not a binary search tree. What is the complevity of this?
+
+O(N), search every node.
